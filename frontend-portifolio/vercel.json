@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/((?!manutencao.html$).*)",
+            "destination": "/manutencao.html"
+        }
+    ]
+}
